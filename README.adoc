@@ -9,7 +9,7 @@ ifdef::env-github[]
   <img width="800" src="/readme-icp3.png">
 </p>
 ++++
-endif::[]
+
 
 
 The Internet Computer is the world’s first blockchain that runs at web speed and can increase its capacity without bound. Like the Internet (which is composed of many machines adhering to TCP/IP protocol) and blockchain protocols (such as Bitcoin and Ethereum).
